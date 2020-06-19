@@ -48,7 +48,7 @@
 
 .heading .p {
   padding: 0em 13vmin;
-  color: rgb(70, 65, 65);
+  color: whitesmoke;
   font-size: 3.5vmin;
   font-family: var(--poppins);
 }
